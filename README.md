@@ -1,6 +1,5 @@
 # AI ChatBot — Custom AI Chat Representative 💬
 
-Welcome to **ChatApp**, a full-stack real-time messaging platform built with ❤️ using **Next.js**, **Express**, **Prisma**, **PostgreSQL**, and **WebSockets** powered by **Socket.IO**!
 
 Welcome to **AI_ChatBot**, a full-stack AI-powered chatbot platform built with ❤️ using **Next.js**, **Express.js**, **Prisma**, **PostgreSQL**, and **Ollama-Llama3.2**!
 
@@ -75,8 +74,8 @@ It leverages **Ollama-Llama3.2**, pre-trained with company-specific data, to pro
    
    # Configure environment variables
    cp .env.example .env
+
    # Edit .env with your PostgreSQL connection string and oogle OAuth credentials, and Ollama settings
-   
    # Run database migrations
    npx prisma migrate dev
    
@@ -141,7 +140,7 @@ ai_chatbot/
 └── frontend/
 ```
 
-## 🤝 Contributing
+## </> Contributing
 
 Got an idea to make it even better? Fork it, code it, and create a PR — contributions are **always welcome**!
 
